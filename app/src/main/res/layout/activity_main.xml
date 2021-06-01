@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.shrikanthravi.customnavigationdrawer2.widget.SNavigationDrawer
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:appbarTitleTextColor="@color/white"
+
+    android:pointerIcon="hand"
+    app:appbarTitleTextSize="0sp"
+    android:id="@+id/my_navigation_drawer"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:id="@+id/navigation_frame_Layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width=""
+        android:layout_height=""
+
+
+</com.shrikanthravi.customnavigationdrawer2.widget.SNavigationDrawer>
