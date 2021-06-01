@@ -16,10 +16,7 @@
         android:id="@+id/navigation_frame_Layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
-    
-    <androidx.appcompat.widget.AppCompatButton
-        android:layout_width=""
-        android:layout_height=""
+
 
 
 </com.shrikanthravi.customnavigationdrawer2.widget.SNavigationDrawer>
